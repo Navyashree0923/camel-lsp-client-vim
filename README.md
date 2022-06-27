@@ -55,4 +55,4 @@ if executable('java') && filereadable(expand('~/lsp/camel-lsp-server/camel-lsp-s
     \ })
 endif
 ```
-To get information about the integration of Camel LS for Vim and Neovim follow this link - https://github.com/Navyashree0923/coc-camel/tree/coc
+To get information about the integration of Camel LS for Vim and Neovim follow this link - https://github.com/camel-tooling/coc-camel
